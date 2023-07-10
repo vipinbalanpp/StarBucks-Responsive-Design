@@ -1,0 +1,108 @@
+var 
+
+#rew{
+    color: black;
+}
+#tog{
+    color: black;
+}
+#navbar{
+    border-bottom: 3px solid rgba(0,0,0,0.1);
+   
+}
+#textdiv1{
+    background-color: #eb81a5;
+   
+}
+#textdiv2{
+    background-color: #d4e9e2;
+   
+}
+#textdiv3{
+    background-color: #8f8bf4;
+   
+}
+#textdiv4{
+    background-color: #cbe678;
+   
+}
+#textdiv5{
+    background-color: #e1fccd;
+   
+}
+#footersecton1{
+    border-bottom: 3px solid rgba(0,0,0,0.1);
+}
+#footerlist{
+    list-style: none;
+    
+}
+#list1{
+    list-style: none;
+}
+#list2{
+    list-style: none;
+}
+#list3{
+    list-style: none;
+}
+#list4{
+    list-style: none;
+}
+#list5{
+    list-style: none;
+}
+#footerlist{
+    list-style: none;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+
+}
+@media(min-width:768px){
+     #list1{
+       display: contents; 
+     
+    }
+    #list2{
+        display: contents; 
+     }
+     #list3{
+        display: contents; 
+     }
+     #list4{
+        display: contents; 
+     }
+     #list5{
+        display: contents; 
+     } 
+     
+    
+
+}
+.socialmedia{
+    font-size: 30px;
+    padding: 20px;
+
+}
+#footerlist{
+    color: black;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.flist{
+  color: rgba(0,0,0,.58);
+  font-size: 1rem;
+}
+#copyright{
+    font-size: 13px;
+}
+.privacy{
+    font-size: small;
+    color: black;
+}
+
+
+
+
+
+
+
